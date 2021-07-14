@@ -1,0 +1,24 @@
+{
+  "name": "cocktail-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samu901/cocktail-api.git"
+  },
+  "author": "Samuele Scapellato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samu901/cocktail-api/issues"
+  },
+  "homepage": "https://github.com/samu901/cocktail-api#readme",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^0.16.3"
+  }
+}
