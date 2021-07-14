@@ -1,0 +1,15 @@
+{
+    "cocktail":{
+        "Long Island Iced Tea":{
+            "id": 0,
+            "ingredients": {
+                "vodka": "1.5 cl",
+                "rum bianco": "1.5 cl",
+                "triple sec": "1.5 cl",
+                "gin": "1.5 cl",
+                "tequila": "1.5 cl",
+                "Coca-Cola": "30 cl"
+            }
+        }
+    }
+}
